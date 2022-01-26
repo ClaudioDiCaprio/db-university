@@ -14,4 +14,4 @@
 
 4)  SELECT COUNT(*)
     FROM `degrees`
-    GROUP BY `department_id;
+    GROUP BY `department_id`;
